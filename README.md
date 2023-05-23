@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aqcchi
+- 👋 Hi, I’m Vaya.
 - 👀 I’m interested in programming, creative writing and learning new languages(mainly japanese and german).
 - 🌱 I’m currently learning Python Fundamentals.
 
