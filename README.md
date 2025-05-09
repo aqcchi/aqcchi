@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anelia!
 - 👀 I’m interested in programming, creative writing and learning new languages(mainly japanese and german).
-- 🌱 I’m currently learning Software Engineering and DevOps.
 - LinkedIn profile: www.linkedin.com/in/anelia-varadinova-6a5642256 
 - :books: For whoever is interested in books (and cats), you can follow the Instagram profile of my new book shop "The Black Cat": https://www.instagram.com/cherniyat_kotarak/
 
